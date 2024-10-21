@@ -29,7 +29,7 @@ Las franjas claras corresponden a los máximos de interferencia (m = ±1, ±2...
 ### Relevancia del Experimento
 El experimento de la doble rendija es crucial en la física porque demuestra la **dualidad onda-partícula** de la luz y ha sido replicado incluso con partículas como electrones, mostrando que no solo las ondas de luz, sino también las partículas, exhiben propiedades ondulatorias bajo ciertas condiciones.
 
-## 🛠️ Simulación en Python
+
 
 El propósito de este proyecto es simular este patrón de interferencia utilizando `numpy` para los cálculos y `matplotlib` para la visualización. El módulo permite visualizar cómo cambian las franjas de interferencia según se ajusten parámetros como la longitud de onda y la separación de las rendijas.
 
